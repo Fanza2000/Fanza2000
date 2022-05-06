@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fanza2000
+- 👋 Hi, I’m Heba Fathima
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 
